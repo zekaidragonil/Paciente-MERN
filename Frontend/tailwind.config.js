@@ -1,3 +1,4 @@
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ["index.html", "./src/**/*.jsx"],
@@ -5,5 +6,5 @@ export default {
     extend: {},
   },
   plugins: [],
-}
+};
 
